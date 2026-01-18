@@ -1,0 +1,34 @@
+# Site settings
+title: My Blog
+description: Sharing thoughts, ideas, and experiences
+author: Your Name
+# email: your-email@example.com
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# GitHub Pages settings
+url: "https://ctienru.github.io"
+baseurl: ""
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:title/
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
