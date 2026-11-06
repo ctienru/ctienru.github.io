@@ -4,7 +4,10 @@ title: "How I'm Migrating Podcast Search From v1 to v2"
 date: 2026-03-23
 author: Terri
 tags: [search, elasticsearch, podcast, devops]
+excerpt: "The previous post covered why I'm rebuilding the search system. This one covers how I'm thinking about the cutover."
 ---
+
+> **Update (November 2026):** This post describes the v1 to v2 redesign on Elasticsearch from March 2026. Podvein has changed since then. The current version (v5) runs on OpenSearch, with a FastAPI search service and a Django API. See [podvein.com](https://podvein.com).
 
 The previous post covered why I'm rebuilding the search system. This one covers how I'm thinking about the cutover.
 

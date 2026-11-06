@@ -1,8 +1,12 @@
 # Site settings
-title: My Blog
-description: Sharing thoughts, ideas, and experiences
-author: Your Name
+title: Tien Ru (Terri) Chen
+description: Software engineer. Notes on building Podvein, a bilingual podcast search system.
+author: Tien Ru (Terri) Chen
 # email: your-email@example.com
+social:
+  name: Tien Ru (Terri) Chen
+  links:
+    - https://github.com/ctienru
 
 # Build settings
 markdown: kramdown

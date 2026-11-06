@@ -4,7 +4,10 @@ title: "I'm Rebuilding the Podcast Search System"
 date: 2026-03-22
 author: Terri
 tags: [search, elasticsearch, podcast]
+excerpt: "I'm rebuilding the podcast search system from scratch. Not because I wanted to—because it broke."
 ---
+
+> **Update (November 2026):** This post describes the v1 to v2 redesign on Elasticsearch from March 2026. Podvein has changed since then. The current version (v5) runs on OpenSearch, with a FastAPI search service and a Django API. See [podvein.com](https://podvein.com).
 
 I'm rebuilding the podcast search system from scratch. Not because I wanted to—because it broke.
 

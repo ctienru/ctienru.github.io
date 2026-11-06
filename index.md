@@ -5,8 +5,9 @@ title: Home
 
 <div class="container">
     <section class="hero">
-        <h1>Welcome to My Blog</h1>
-        <p>Sharing thoughts, ideas, and experiences</p>
+        <h1>Tien Ru (Terri) Chen</h1>
+        <p>Software engineer. I build backend services, search, and data integrations. This blog records the decisions behind <a href="https://podvein.com">Podvein</a>, a bilingual podcast search system.</p>
+        <p><a href="https://podvein.com">Podvein</a> · <a href="https://github.com/ctienru">GitHub</a></p>
     </section>
 
     <section class="section">
